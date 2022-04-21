@@ -1,0 +1,3 @@
+Untuk membuka file, baik itu file execute atau file lainnya pada sistem
+operasi menggunakan terminal/shell gunakan "./" diikuti dengan nama filenya.
+

@@ -1,0 +1,10 @@
+metadata menyimpan informasi penting, dan dapat dimanipulasi. mungkin terdapat informasi yang dapat diperoleh dari metadata tersebut.
+
+pada linux terdapat tool untuk membaca metadata file:
+
+1. identify -v file
+2. exiftool file
+3. ...
+
+kemudian informasi dapat berbentuk encode. pada catatan ini, informasi tersimpan dalam metadata file .jpg
+dan berbentuk encode base64.;

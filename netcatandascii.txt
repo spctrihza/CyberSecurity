@@ -1,0 +1,12 @@
+catatan 
+
+digunakan netcat untuk terhubung dan berkomunikasi dengan server.
+
+nc -l port <- untuk menset pada server
+
+nc destination port <- untuk terhubung dengan server
+
+----
+
+pada catatan ctf ini, mencoba terhubung ke server, kemudian server membalas dengan serangkaian angka,
+ternyata angka tersebut merupakan code ASCII. kemudian didecode dan menghasilkan flag
